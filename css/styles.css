@@ -1,0 +1,30 @@
+body {
+  font-family: "Montserrat";
+  background-color: lightgray;
+}
+
+/* NAVBAR  */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.nav-item {
+  padding: 0 18px;
+  margin: 0;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  font-weight: 500;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
