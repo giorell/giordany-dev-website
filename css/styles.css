@@ -13,8 +13,8 @@ body {
   padding: 0 0 4.5rem;
 }
 .navbar-brand {
-  font-family: "Ubuntu";
-  font-size: 3rem;
+  font-family: "Montserrat";
+  font-size: 2.5rem;
   line-height: 1.5;
   color: darkslategray;
 }
@@ -58,8 +58,13 @@ h2 {
   margin-bottom: 25px;
 }
 
-.iphone-bg-01 {
-  background-color: aqua;
+.iphone-big {
+  width: 50%;
+}
+
+.iphone-sm {
+  width: 60%;
+  margin: 20px;
 }
 
 .iphone-app-desc {
