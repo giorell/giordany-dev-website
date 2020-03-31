@@ -39,6 +39,7 @@ body {
   border-radius: 100%;
   stroke-width: 200px;
   stroke: darkslategray;
+  height: auto;
 }
 
 h1 {
@@ -60,6 +61,7 @@ h2 {
 
 .iphone-big {
   width: 50%;
+  height: auto;
 }
 
 .iphone-sm {
