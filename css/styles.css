@@ -39,6 +39,7 @@ body {
   border-radius: 100%;
   stroke-width: 200px;
   height: auto;
+  text-align: center;
 }
 
 h1 {
@@ -57,7 +58,9 @@ h2 {
 .col-lg-6 {
   margin-bottom: 25px;
 }
-
+.image-settings {
+  text-align: center;
+}
 .iphone-big {
   width: 50%;
   height: auto;
